@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock/actionbarsherlock1.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock/actionbarsherlock1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/android-master.iml" filepath="$PROJECT_DIR$/android-master/android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/demos/demos.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/demos/demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/fragments/fragments.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/fragments/fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/known-bugs/known-bugs.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/known-bugs/known-bugs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-fest/src/main/main.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-fest/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/oc_jb_workaround/oc_jb_workaround.iml" filepath="$PROJECT_DIR$/android-master/oc_jb_workaround/oc_jb_workaround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/roboguice/roboguice.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/roboguice/roboguice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/styled/styled.iml" filepath="$PROJECT_DIR$/android-master/actionbarsherlock/ActionBarSherlock-master/actionbarsherlock-samples/styled/styled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-master/tests/tests.iml" filepath="$PROJECT_DIR$/android-master/tests/tests.iml" />
+    </modules>
+  </component>
+</project>
+

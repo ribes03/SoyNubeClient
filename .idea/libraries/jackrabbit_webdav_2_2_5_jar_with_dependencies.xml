@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackrabbit-webdav-2.2.5-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-master/libs/jackrabbit-webdav-2.2.5-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
